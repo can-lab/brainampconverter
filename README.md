@@ -4,4 +4,4 @@ Tool to convert physiology data collected using Brainamp systems to format reada
 
 **DISCLAIMER: This tool was intended for internal usage only. It is made public for reproducibility reasons. No support is provided.**
 
-Copyright (c) 2011-2021 Erno Hermans. All rights reserved.
+_Copyright (c) 2011-2021 Erno Hermans. All rights reserved._
